@@ -8,6 +8,10 @@ requirements = []
 path = "contracts/achievement.clar"
 depends_on = []
 
+[contracts.profile]
+path = "contracts/profile.clar"
+depends_on = []
+
 [contracts.quest-core]
 path = "contracts/quest-core.clar"
 depends_on = []
